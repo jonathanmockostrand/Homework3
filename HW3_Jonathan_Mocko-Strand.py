@@ -3,7 +3,7 @@
 ##    Jonathan Mocko-Strand                              ##
 ##    Dept. of Geology & Geophysics, TAMU. 2013-10-15    ##
 ##    Python for Geoscientists                           ##
-##    Homework Assignment 2                              ##
+##    Homework Assignment 3                              ##
 ##                                                       ##
 ###########################################################
 
